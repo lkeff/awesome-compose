@@ -1,4 +1,4 @@
-FROM nginx:1.27.3-alpine
+FROM nginx:1.28.0-alpine
 
 # Add bash for boot cmd
 RUN apk add bash
